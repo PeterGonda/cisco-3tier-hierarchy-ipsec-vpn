@@ -33,7 +33,7 @@ Granular Access Policy: Extended ACLs are meticulously configured to enforce the
 
 /docs: Includes the full technical documentation and graduation thesis report in PDF and DOCX formats.
 
-/configs: Text-based configuration files exported from key network devices for review.
+/screenshots: Network topology images.
 
 ## 🚀 How to Use
 Download and install Cisco Packet Tracer (version 8.x recommended).
